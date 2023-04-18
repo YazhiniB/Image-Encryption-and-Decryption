@@ -8,20 +8,31 @@ Encryption and decryption are important in ensuring the security and privacy of 
 About This Project:
 
 1] An Image Encryption Decryption is an image processing application created in python with tkinter,gui and OpenCv library.
+
 2] In this application user can select an image and can encrypt that image to gray scale image and can even decrpyt also.
+
 3] Also after encrypting and decrypting user can also save the edited image anywhere in the local system.
+
 4] Also there is option to reset to the original image.
 
 Requirements:
 
 python 3
+
 os module
+
 cv2 module
+
 tkinter module
+
 filedialog from tkinter
+
 messagebox
+
 from PIL import Image, ImageTk
+
 numpy
+
 random
 
 DESCRIPTION:
